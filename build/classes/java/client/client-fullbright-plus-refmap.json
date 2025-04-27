@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "plus/fullbright/mixin/ClientPlayerEntityMixin": {
+      "Lnet/minecraft/client/network/AbstractClientPlayerEntity;tick()V": "Lnet/minecraft/class_742;method_5773()V",
+      "tick()V": "Lnet/minecraft/class_746;method_5773()V"
+    },
+    "plus/fullbright/mixin/EndCrystalItemMixin": {
+      "useOnBlock": "Lnet/minecraft/class_1774;method_7884(Lnet/minecraft/class_1838;)Lnet/minecraft/class_1269;"
+    },
+    "plus/fullbright/mixin/ItemStackMixin": {
+      "getBobbingAnimationTime": "Lnet/minecraft/class_1799;method_7965()I"
+    },
+    "plus/fullbright/mixin/MinecraftClientMixin": {
+      "doItemUse": "Lnet/minecraft/class_310;method_1583()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "plus/fullbright/mixin/ClientPlayerEntityMixin": {
+        "Lnet/minecraft/client/network/AbstractClientPlayerEntity;tick()V": "Lnet/minecraft/class_742;method_5773()V",
+        "tick()V": "Lnet/minecraft/class_746;method_5773()V"
+      },
+      "plus/fullbright/mixin/EndCrystalItemMixin": {
+        "useOnBlock": "Lnet/minecraft/class_1774;method_7884(Lnet/minecraft/class_1838;)Lnet/minecraft/class_1269;"
+      },
+      "plus/fullbright/mixin/ItemStackMixin": {
+        "getBobbingAnimationTime": "Lnet/minecraft/class_1799;method_7965()I"
+      },
+      "plus/fullbright/mixin/MinecraftClientMixin": {
+        "doItemUse": "Lnet/minecraft/class_310;method_1583()V"
+      }
+    }
+  }
+}

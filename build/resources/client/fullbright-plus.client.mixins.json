@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "plus.fullbright.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ClientPlayerEntityMixin",
+		"EndCrystalItemMixin",
+		"ItemStackMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
