@@ -3,10 +3,10 @@
 	"package": "plus.fullbright.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ClientPlayerEntityMixin",
-		"EndCrystalItemMixin",
-		"ItemStackMixin",
-		"MinecraftClientMixin"
+      "ClientLightMixin",
+		"ShaderPatchMixin",
+      "PlayerBobbingMixin",
+		"ReflectionPatchMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
